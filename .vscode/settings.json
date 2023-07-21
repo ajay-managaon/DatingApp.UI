@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f05a3f4b-51b9-4fa5-a6b8-3a3756d86480/resourceGroups/az-datingapp-rg/providers/Microsoft.Web/sites/datingappng",
+    "appService.deploySubpath": "."
+}
